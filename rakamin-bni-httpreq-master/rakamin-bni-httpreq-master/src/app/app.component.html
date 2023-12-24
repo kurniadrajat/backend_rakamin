@@ -1,0 +1,49 @@
+<div class="content">
+  <div class="wrapper">
+
+    <div class="input-data">
+      <label for="title">Title</label>
+      <input #title type="text" id="title" name="title">
+  
+      <label for="description">Description</label>
+      <input #desc type="text" id="desc" name="desc" >
+  
+      <button (click)="postDataTutorial(title.value, desc.value)">Post!</button>
+  </div>
+
+</div>
+
+<!-- Tambahkan bagian formulir pengeditan -->
+<div *ngIf="selectedTutorial; else showButton">
+  <h2>Edit Tutorial</h2>
+  <form (submit)="updateDataTutorial(selectedTutorial.id, editForm.value.title, editForm.value.desc)" #editForm="ngForm">
+    <label for="editTitle">Title</label>
+    <input type="text" id="editTitle" name="editTitle" [(ngModel)]="selectedTutorial.title" required>
+
+    <label for="editDesc">Description</label>
+    <input type="text" id="editDesc" name="editDesc" [(ngModel)]="selectedTutorial.description" required>
+
+    <button type="submit">Update</button>
+  </form>
+</div>
+
+<ng-template #showButton>
+  <div class="content" *ngFor="let data of tutorials">
+    <div class="wrapper">
+      <p>{{data.title}}</p>
+      <button (click)="getDataTutorialId(data.id)">Get id</button>
+      <button (click)="deleteDataTutorial(data.id)">Delete</button>
+      <button (click)="editDataTutorial(data.id)">Edit</button>
+    </div>
+  </div>
+</ng-template>
+
+<div class="content" *ngFor="let data of tutorials">
+  <div class="wrapper">
+    <p>{{data.title}}</p>
+    <button (click)="getDataTutorialId(data.id)">Get id</button>
+    <button (click)="deleteDataTutorial(data.id)">Delete</button>
+    <button (click)="editDataTutorial(data.id)">Edit</button>
+
+  </div>
+</div>

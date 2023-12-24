@@ -1,0 +1,4 @@
+2023-12-20T13:03:23.162+07:00  INFO 29620 --- [main] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 21.0.1 with PID 29620 (started by asus in C:\Users\asus\Downloads\demo (3)\demo)
+2023-12-20T13:03:23.163+07:00 DEBUG 29620 --- [main] com.example.demo.DemoApplicationTests    : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-20T13:03:23.164+07:00  INFO 29620 --- [main] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2023-12-20T13:03:24.101+07:00  INFO 29620 --- [main] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 1.161 seconds (process running for 1.881)

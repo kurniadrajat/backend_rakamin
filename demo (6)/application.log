@@ -1,0 +1,148 @@
+2023-12-21T11:25:04.472+07:00  INFO 22312 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 22312 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:25:04.473+07:00 DEBUG 22312 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:25:04.474+07:00  INFO 22312 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:25:04.994+07:00  INFO 22312 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.857 seconds (process running for 1.164)
+2023-12-21T11:31:36.461+07:00  INFO 29432 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 29432 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:31:36.462+07:00 DEBUG 29432 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:31:36.463+07:00  INFO 29432 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:31:36.937+07:00  INFO 29432 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.822 seconds (process running for 1.079)
+2023-12-21T11:33:25.427+07:00  INFO 9604 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 9604 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:33:25.428+07:00 DEBUG 9604 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:33:25.429+07:00  INFO 9604 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:33:25.941+07:00  INFO 9604 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.855 seconds (process running for 1.129)
+2023-12-21T11:47:00.272+07:00  INFO 9464 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 9464 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:47:00.273+07:00 DEBUG 9464 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:47:00.274+07:00  INFO 9464 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:47:00.808+07:00  INFO 9464 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.893 seconds (process running for 1.189)
+2023-12-21T11:49:39.417+07:00  INFO 7056 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 7056 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:49:39.418+07:00 DEBUG 7056 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:49:39.419+07:00  INFO 7056 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:49:39.954+07:00  INFO 7056 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.893 seconds (process running for 1.168)
+2023-12-21T11:52:14.164+07:00  INFO 29660 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 29660 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:52:14.165+07:00 DEBUG 29660 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:52:14.166+07:00  INFO 29660 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:52:14.660+07:00  INFO 29660 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.872 seconds (process running for 1.137)
+2023-12-21T11:52:21.707+07:00  INFO 24936 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 24936 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:52:21.708+07:00 DEBUG 24936 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:52:21.709+07:00  INFO 24936 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:52:22.226+07:00  INFO 24936 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.864 seconds (process running for 1.14)
+2023-12-21T11:52:26.876+07:00  INFO 6560 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 6560 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:52:26.877+07:00 DEBUG 6560 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:52:26.878+07:00  INFO 6560 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:52:27.431+07:00  INFO 6560 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.9 seconds (process running for 1.173)
+2023-12-21T11:52:32.943+07:00  INFO 6712 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 6712 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:52:32.944+07:00 DEBUG 6712 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:52:32.945+07:00  INFO 6712 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:52:33.446+07:00  INFO 6712 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.845 seconds (process running for 1.111)
+2023-12-21T11:52:41.168+07:00  INFO 25508 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 25508 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:52:41.169+07:00 DEBUG 25508 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:52:41.170+07:00  INFO 25508 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:52:41.703+07:00  INFO 25508 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.903 seconds (process running for 1.181)
+2023-12-21T11:52:47.543+07:00  INFO 12172 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 12172 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:52:47.545+07:00 DEBUG 12172 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:52:47.545+07:00  INFO 12172 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:52:48.059+07:00  INFO 12172 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.87 seconds (process running for 1.15)
+2023-12-21T11:53:44.146+07:00  INFO 24984 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 24984 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:53:44.147+07:00 DEBUG 24984 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:53:44.148+07:00  INFO 24984 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:53:44.675+07:00  INFO 24984 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.857 seconds (process running for 1.191)
+2023-12-21T11:53:55.009+07:00  INFO 21776 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 21776 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:53:55.010+07:00 DEBUG 21776 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:53:55.011+07:00  INFO 21776 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:53:55.590+07:00  INFO 21776 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.953 seconds (process running for 1.635)
+2023-12-21T11:54:06.336+07:00  INFO 11832 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 11832 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:54:06.338+07:00 DEBUG 11832 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:54:06.339+07:00  INFO 11832 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:54:06.869+07:00  INFO 11832 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.9 seconds (process running for 1.199)
+2023-12-21T11:55:53.416+07:00  INFO 18676 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 18676 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:55:53.417+07:00 DEBUG 18676 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:55:53.418+07:00  INFO 18676 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:55:53.925+07:00  INFO 18676 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.854 seconds (process running for 1.124)
+2023-12-21T11:58:07.433+07:00  INFO 23472 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 23472 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:58:07.437+07:00 DEBUG 23472 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:58:07.439+07:00  INFO 23472 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:58:09.378+07:00  INFO 23472 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.284 seconds (process running for 4.342)
+2023-12-21T11:58:18.245+07:00  INFO 22012 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 22012 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:58:18.249+07:00 DEBUG 22012 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:58:18.252+07:00  INFO 22012 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:58:20.271+07:00  INFO 22012 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.415 seconds (process running for 4.479)
+2023-12-21T11:58:41.750+07:00  INFO 29300 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 29300 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T11:58:41.754+07:00 DEBUG 29300 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T11:58:41.756+07:00  INFO 29300 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T11:58:43.699+07:00  INFO 29300 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.278 seconds (process running for 4.344)
+2023-12-21T12:02:24.662+07:00  INFO 20036 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 20036 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:02:24.667+07:00 DEBUG 20036 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:02:24.669+07:00  INFO 20036 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:02:26.619+07:00  INFO 20036 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.493 seconds (process running for 4.911)
+2023-12-21T12:44:29.765+07:00  INFO 9856 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 9856 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:44:29.767+07:00 DEBUG 9856 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:44:29.768+07:00  INFO 9856 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:44:30.297+07:00  INFO 9856 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.886 seconds (process running for 1.218)
+2023-12-21T12:45:21.707+07:00  INFO 19360 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 19360 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:45:21.709+07:00 DEBUG 19360 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:45:21.709+07:00  INFO 19360 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:45:22.274+07:00  INFO 19360 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.939 seconds (process running for 1.243)
+2023-12-21T12:53:38.283+07:00  INFO 19752 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 19752 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:53:38.285+07:00 DEBUG 19752 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:53:38.286+07:00  INFO 19752 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:53:39.178+07:00  INFO 19752 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.547 seconds (process running for 2.063)
+2023-12-21T12:54:05.955+07:00  INFO 17624 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 17624 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:54:05.957+07:00 DEBUG 17624 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:54:05.958+07:00  INFO 17624 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:54:06.808+07:00  INFO 17624 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.508 seconds (process running for 2.009)
+2023-12-21T12:54:29.807+07:00  INFO 8820 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 8820 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:54:29.810+07:00 DEBUG 8820 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:54:29.811+07:00  INFO 8820 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:54:30.679+07:00  INFO 8820 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.476 seconds (process running for 1.971)
+2023-12-21T12:54:35.704+07:00  INFO 17308 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 17308 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:54:35.706+07:00 DEBUG 17308 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:54:35.707+07:00  INFO 17308 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:54:36.650+07:00  INFO 17308 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.576 seconds (process running for 2.754)
+2023-12-21T12:57:36.290+07:00  INFO 8092 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 8092 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:57:36.294+07:00 DEBUG 8092 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:57:36.295+07:00  INFO 8092 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:57:37.161+07:00  INFO 8092 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.527 seconds (process running for 2.056)
+2023-12-21T12:57:43.224+07:00  INFO 8588 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 8588 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:57:43.226+07:00 DEBUG 8588 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:57:43.227+07:00  INFO 8588 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:57:44.185+07:00  INFO 8588 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.59 seconds (process running for 2.787)
+2023-12-21T12:57:50.889+07:00  INFO 18708 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 18708 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:57:50.891+07:00 DEBUG 18708 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:57:50.892+07:00  INFO 18708 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:57:51.890+07:00  INFO 18708 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.712 seconds (process running for 2.408)
+2023-12-21T12:57:56.085+07:00  INFO 1996 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 1996 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:57:56.087+07:00 DEBUG 1996 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:57:56.088+07:00  INFO 1996 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:57:56.986+07:00  INFO 1996 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.576 seconds (process running for 2.226)
+2023-12-21T12:59:01.547+07:00  INFO 20024 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 20024 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:59:01.549+07:00 DEBUG 20024 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:59:01.550+07:00  INFO 20024 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:59:02.440+07:00  INFO 20024 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.502 seconds (process running for 1.994)
+2023-12-21T12:59:14.695+07:00  INFO 17420 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 17420 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T12:59:14.697+07:00 DEBUG 17420 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T12:59:14.698+07:00  INFO 17420 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T12:59:15.525+07:00  INFO 17420 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.433 seconds (process running for 1.928)
+2023-12-21T13:00:24.249+07:00  INFO 16880 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 16880 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T13:00:24.251+07:00 DEBUG 16880 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:00:24.252+07:00  INFO 16880 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:00:25.102+07:00  INFO 16880 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.503 seconds (process running for 2.024)
+2023-12-21T13:00:49.899+07:00  INFO 4316 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 4316 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T13:00:49.900+07:00 DEBUG 4316 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:00:49.901+07:00  INFO 4316 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:00:50.982+07:00  INFO 4316 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.745 seconds (process running for 2.303)
+2023-12-21T13:00:52.358+07:00  INFO 7932 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 7932 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T13:00:52.360+07:00 DEBUG 7932 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:00:52.361+07:00  INFO 7932 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:00:53.392+07:00  INFO 7932 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.822 seconds (process running for 2.501)
+2023-12-21T13:01:09.769+07:00  INFO 2728 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 2728 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T13:01:09.771+07:00 DEBUG 2728 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:01:09.772+07:00  INFO 2728 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:01:10.634+07:00  INFO 2728 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.522 seconds (process running for 2.046)
+2023-12-21T13:01:20.315+07:00  INFO 19296 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 19296 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T13:01:20.317+07:00 DEBUG 19296 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:01:20.318+07:00  INFO 19296 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:01:21.193+07:00  INFO 19296 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.506 seconds (process running for 2.011)
+2023-12-21T13:01:34.112+07:00  INFO 13092 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 21.0.1 with PID 13092 (C:\Users\asus\Downloads\demo (6)\demo\target\classes started by asus in C:\Users\asus\Downloads\demo (6))
+2023-12-21T13:01:34.113+07:00 DEBUG 13092 --- [main] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:01:34.115+07:00  INFO 13092 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:01:35.065+07:00  INFO 13092 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.608 seconds (process running for 2.21)

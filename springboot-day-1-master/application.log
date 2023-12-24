@@ -1,0 +1,62 @@
+2023-12-21T13:11:44.843+07:00  INFO 18420 --- [main] com.example.demo.DemoDay1Application     : Starting DemoDay1Application using Java 21.0.1 with PID 18420 (C:\Users\asus\Downloads\springboot-day-1-master\target\classes started by asus in C:\Users\asus\Downloads\springboot-day-1-master)
+2023-12-21T13:11:44.844+07:00 DEBUG 18420 --- [main] com.example.demo.DemoDay1Application     : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:11:44.845+07:00  INFO 18420 --- [main] com.example.demo.DemoDay1Application     : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:11:45.622+07:00  INFO 18420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-21T13:11:45.632+07:00  INFO 18420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21T13:11:45.633+07:00  INFO 18420 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-21T13:11:45.674+07:00  INFO 18420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21T13:11:45.674+07:00  INFO 18420 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 791 ms
+2023-12-21T13:11:45.948+07:00  WARN 18420 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-12-21T13:11:45.960+07:00  INFO 18420 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-21T13:11:45.983+07:00 ERROR 18420 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-12-21T13:12:03.456+07:00  INFO 2888 --- [main] com.example.demo.DemoDay1Application     : Starting DemoDay1Application using Java 21.0.1 with PID 2888 (C:\Users\asus\Downloads\springboot-day-1-master\target\classes started by asus in C:\Users\asus\Downloads\springboot-day-1-master)
+2023-12-21T13:12:03.457+07:00 DEBUG 2888 --- [main] com.example.demo.DemoDay1Application     : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:12:03.457+07:00  INFO 2888 --- [main] com.example.demo.DemoDay1Application     : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:12:04.268+07:00  INFO 2888 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2023-12-21T13:12:04.277+07:00  INFO 2888 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21T13:12:04.278+07:00  INFO 2888 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-21T13:12:04.329+07:00  INFO 2888 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21T13:12:04.330+07:00  INFO 2888 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 838 ms
+2023-12-21T13:12:04.628+07:00  INFO 2888 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path ''
+2023-12-21T13:12:04.633+07:00  INFO 2888 --- [main] com.example.demo.DemoDay1Application     : Started DemoDay1Application in 1.533 seconds (process running for 1.807)
+2023-12-21T13:12:13.194+07:00  INFO 4716 --- [main] com.example.demo.DemoDay1Application     : Starting DemoDay1Application using Java 21.0.1 with PID 4716 (C:\Users\asus\Downloads\springboot-day-1-master\target\classes started by asus in C:\Users\asus\Downloads\springboot-day-1-master)
+2023-12-21T13:12:13.196+07:00 DEBUG 4716 --- [main] com.example.demo.DemoDay1Application     : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T13:12:13.196+07:00  INFO 4716 --- [main] com.example.demo.DemoDay1Application     : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T13:12:13.948+07:00  INFO 4716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2023-12-21T13:12:13.957+07:00  INFO 4716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21T13:12:13.957+07:00  INFO 4716 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-21T13:12:14.000+07:00  INFO 4716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21T13:12:14.001+07:00  INFO 4716 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 770 ms
+2023-12-21T13:12:14.316+07:00  INFO 4716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path ''
+2023-12-21T13:12:14.322+07:00  INFO 4716 --- [main] com.example.demo.DemoDay1Application     : Started DemoDay1Application in 1.516 seconds (process running for 1.794)
+2023-12-21T13:13:06.358+07:00  INFO 4716 --- [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-21T13:13:06.359+07:00  INFO 4716 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-21T13:13:06.360+07:00  INFO 4716 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-21T16:17:33.159+07:00  INFO 8224 --- [main] com.example.demo.DemoDay1Application     : Starting DemoDay1Application using Java 21.0.1 with PID 8224 (C:\Users\asus\Downloads\springboot-day-1-master\target\classes started by asus in C:\Users\asus\Downloads\springboot-day-1-master)
+2023-12-21T16:17:33.164+07:00 DEBUG 8224 --- [main] com.example.demo.DemoDay1Application     : Running with Spring Boot v3.2.0, Spring v6.1.1
+2023-12-21T16:17:33.167+07:00  INFO 8224 --- [main] com.example.demo.DemoDay1Application     : No active profile set, falling back to 1 default profile: "default"
+2023-12-21T16:17:36.051+07:00  INFO 8224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2023-12-21T16:17:36.081+07:00  INFO 8224 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-21T16:17:36.082+07:00  INFO 8224 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-21T16:17:36.242+07:00  INFO 8224 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-21T16:17:36.243+07:00  INFO 8224 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2933 ms
+2023-12-21T16:17:37.293+07:00  INFO 8224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path ''
+2023-12-21T16:17:37.317+07:00  INFO 8224 --- [main] com.example.demo.DemoDay1Application     : Started DemoDay1Application in 5.7 seconds (process running for 6.794)
+2023-12-21T16:18:16.123+07:00  INFO 8224 --- [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-21T16:18:16.124+07:00  INFO 8224 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-21T16:18:16.127+07:00  INFO 8224 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms

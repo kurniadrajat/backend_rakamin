@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fetch Data</title>
+</head>
+<form id="addUserForm">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="balance">Balance:</label>
+    <input type="text" id="balance" name="balance" required>
+    <button type="submit">Add Customer</button>
+  </form>
+
+<body>
+  <button id="fetchData">Fetch Data</button>
+  <div id="output"></div> <script>
+    const fetchButton = document.getElementById('fetchData');
+    const outputDiv = document.getElementById('output');
+
+
+
+    
+    fetchButton.addEventListener('click', () => {
+      fetch('http://localhost:8081/customers')
+        .then(response => response.json())
+        .then(data => {
+          let outputHTML = '';
+          if (Array.isArray(data)) {
+            outputHTML += '<ul>';
+            data.forEach(item => {
+                console.log(item);
+              outputHTML += <li> Nama: ${item.name} <br> Balance: ${item.balance} <br> ID: ${item.id}</li>;
+            });
+            outputHTML += '</ul>';
+          } else {
+            // Handle non-array data structures appropriately
+            outputHTML += '<p>Data is not an array.</p>'; // Example placeholder
+          }
+          outputDiv.innerHTML = outputHTML;
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+          outputDiv.innerHTML = '<p>Error fetching data.</p>'; // Display error message
+        });
+    });
+
+const addUserForm = document.getElementById('addUserForm');
+addUserForm.addEventListener('submit', (event) => {
+  event.preventDefault(); // Prevent default form submission behavior
+
+  const name = document.getElementById('name').value;
+  const email = document.getElementById('email').value;
+
+  const data = { name, email }; // Assuming your server expects this format
+
+  fetch('http://localhost:8080/users', { // Replace with your server's endpoint
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(data)
+  })
+    .then(response => {
+      if (response.ok) {
+        // Handle successful user addition
+        console.log('User added successfully!');
+        // You might want to clear the form or display a success message
+        // Consider fetching the updated data to reflect the new user
+      } else {
+        // Handle error
+        console.error('Error adding user:', response.statusText);
+        // Display an error message to the user
+      }
+    })
+    .catch(error => {
+      console.error('Error:', error);
+      // Display an error message to the user
+    });
+});
+
+
+
+
+  </script>
+</body>
+</html>
